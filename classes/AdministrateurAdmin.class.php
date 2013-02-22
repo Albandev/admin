@@ -66,7 +66,6 @@ class AdministrateurAdmin extends Administrateur
         
         $this->maj();
         
-        $this->redirect();
     }
     
     /**
